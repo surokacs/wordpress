@@ -1,0 +1,19 @@
+# wp-admin/
+# wp-includes/
+
+# Config
+wp-config.php
+
+# Uploads
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+wp-content/upgrade/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
